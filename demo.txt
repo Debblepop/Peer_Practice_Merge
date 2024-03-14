@@ -1,4 +1,2 @@
-Hello
-
 My name is Dominick
-My favorite number is 21
+My favorite number is 2
